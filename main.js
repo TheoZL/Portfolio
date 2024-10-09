@@ -1,3 +1,5 @@
+
+
 function pointer(e){
   const ejeX = e.clientX;
   const ejeY = e.clientY + window.scrollY;
